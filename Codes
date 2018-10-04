@@ -1,0 +1,8 @@
+#slicing
+Str1=""MUMBAI CITY"
+print(str1[2:8])
+print(str1[0:len(str1):3]
+#Repitation
+Str2=Ab
+Str3=3*str2
+Ptint(str2)
